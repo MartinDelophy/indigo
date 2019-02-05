@@ -3,7 +3,7 @@ title: "js 控制台实现彩色字体的几种方案"
 layout: post
 date: 2018-02-5 12:10
 tag: javascript
-projects: true
+category: blog
 category: project
 author: martindelophy
 
@@ -12,6 +12,7 @@ author: martindelophy
 console.log("%c 测试字体"，"color: red")
 node状态控制台呈现
 1.安装chalk
-2.console.log('\033[42;30m DONE \033[40;32m\033[4m Compiled successfully in 19987ms')
+2.console.log('\033[42;30m DONE ')
+
 ---
 
