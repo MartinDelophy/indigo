@@ -4,7 +4,6 @@ layout: post
 date: 2018-02-5 12:10
 tag: javascript
 category: blog
-category: project
 author: martindelophy
 
 ---
